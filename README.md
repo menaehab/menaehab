@@ -7,9 +7,9 @@
 
 - 🏫Hi, I'm **CS student at SVNU**
 
-- 🌱 I’m currently learning **Laravel**
+- 💻Passionate Django developer with **one-year experience**
 
-- 💬 Ask me about **Django**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **menaehab7996@gmail.com**
 
