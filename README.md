@@ -24,7 +24,9 @@
 <a href="https://linkedin.com/in/mena-ehab-262a4b290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mena-ehab-262a4b290" height="30" width="40" /></a>
 <a href="https://fb.com/mena.ehab.9026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mena.ehab.9026" height="30" width="40" /></a>
 <a href="https://instagram.com/justt._.mena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt._.mena/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/commanderyt123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="commanderyt123" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mena.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mena.exe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mena_ehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mena_ehab" height="30" width="40" /></a>
 </p>
 
 ## Skills
