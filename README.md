@@ -25,7 +25,11 @@
 <a href="https://fb.com/mena.ehab.9026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mena.ehab.9026" height="30" width="40" /></a>
 <a href="https://instagram.com/justt._.mena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt._.mena/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mena.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mena.exe" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Mena_Ehab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code-alt.svg" alt="Mena Ehab LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mena_Ehab/" target="blank">
+  <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFA116" height="30" width="40">
+    <path d="M14.477 14.02a1.502 1.502 0 1 0 0-3.004 1.502 1.502 0 0 0 0 3.004zM14.477 4.03c1.907 0 3.445-1.563 3.445-3.474S16.384-3 14.477-3c-1.906 0-3.446 1.563-3.446 3.474S12.57 4.03 14.477 4.03zM14.477-9C19.696-9 24-4.705 24 .523c0 5.229-4.304 9.522-9.523 9.522-5.22 0-9.523-4.293-9.523-9.522C5.43-4.705 9.734-9 14.953-9zM8.984 14.02c0-3.005 2.433-5.448 5.437-5.448s5.437 2.444 5.437 5.448c0 3.004-2.434 5.448-5.437 5.448-3.004 0-5.437-2.444-5.437-5.448zM5.542 19.642a1.71 1.71 0 0 0 1.71 1.71c.945 0 1.71-.767 1.71-1.71s-.765-1.71-1.71-1.71a1.71 1.71 0 0 0-1.71 1.71zM8.984 12.762c.813 0 1.475-.663 1.475-1.475 0-.812-.662-1.475-1.475-1.475-.812 0-1.474.663-1.474 1.475 0 .812.662 1.475 1.474 1.475z"/>
+  </svg>
+</a>
 
 </p>
 
