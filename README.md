@@ -25,6 +25,8 @@
 <a href="https://fb.com/mena.ehab.9026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mena.ehab.9026" height="30" width="40" /></a>
 <a href="https://instagram.com/justt._.mena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt._.mena/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mena.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mena.exe" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mena_Ehab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code-alt.svg" alt="Mena Ehab LeetCode" height="30" width="40" /></a>
+
 </p>
 
 ## Skills
