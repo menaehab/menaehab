@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mena Ehab</h1>
 <h3 align="center">I am a CS student, Full-Stack Developer & Competitive Programmer</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menaehab&label=Profile%20views&color=0e75b6&style=flat" alt="menaehab" /> </p>
+-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menaehab" alt="menaehab" /></a> </p>
 
+<hr>
 
 ## About Me
 
@@ -21,12 +24,24 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/mena-ehab-262a4b290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mena-ehab-262a4b290" height="30" width="40" /></a>
-<a href="https://fb.com/mena.ehab.9026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mena.ehab.9026" height="30" width="40" /></a>
-<a href="https://instagram.com/justt._.mena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt._.mena/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/commanderyt123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="commanderyt123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mena.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mena.exe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mena_ehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mena_ehab" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/mena-ehab-262a4b290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/mena.ehab.9026" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/justt._.mena/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/commanderyt123" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/mena.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.leetcode.com/mena_ehab" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
 
 ## Skills
@@ -63,7 +78,6 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -79,6 +93,13 @@
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PhpStorm" />
 </p>
 
+### Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menaehab&show_icons=true&locale=en&layout=compact" alt="menaehab" /></p>
 
