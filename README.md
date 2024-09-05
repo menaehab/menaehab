@@ -42,6 +42,9 @@
   <a href="https://www.leetcode.com/mena_ehab" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://discord.com/users/commanderyt" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ## Skills
