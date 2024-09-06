@@ -33,7 +33,15 @@
   <a href="https://instagram.com/justt._.mena/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.hackerrank.com/commanderyt123" target="_blank">
+  <a href="https://discord.com/users/commanderyt" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+## Competitive Programming Profiles
+
+<p align="left">
+    <a href="https://www.hackerrank.com/commanderyt123" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://codeforces.com/profile/mena.exe" target="_blank">
@@ -41,9 +49,6 @@
   </a>
   <a href="https://www.leetcode.com/mena_ehab" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://discord.com/users/commanderyt" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
