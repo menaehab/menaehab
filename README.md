@@ -24,7 +24,7 @@
 ## Connect with me
 
 <p align="left">
- <a href="https://linkedin.com/in/mena-ehab-262a4b290" target="_blank">
+  <a href="https://linkedin.com/in/mena-ehab-262a4b290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/mena.ehab.9026" target="_blank">
@@ -35,6 +35,9 @@
   </a>
   <a href="https://discord.com/users/commanderyt" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://wa.me/201224535628" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
