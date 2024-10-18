@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React--Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="React Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React--Tailwind-38B2AC?style=flat-square&logo=react&logoColor=white" alt="React-Tailwind" />
   <img src="https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
 </p>
