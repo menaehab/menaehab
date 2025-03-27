@@ -122,8 +122,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menaehab&show_icons=true&locale=en&layout=compact" alt="menaehab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menaehab&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="menaehab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menaehab&show_icons=true&locale=en" alt="menaehab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menaehab&show_icons=true&locale=en&cache_seconds=1800" alt="menaehab" /></p>
 <br>
 
