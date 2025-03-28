@@ -4,11 +4,7 @@
 ## Portfolio
 
 <p align="center">
-  <a href="https://mena-ehab.vercel.app/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      🌐 View My Portfolio
-    </button>
-  </a>
+  <strong>🌐 <a href="https://mena-ehab.vercel.app/" target="_blank">View My Portfolio</a></strong>
 </p>
 
 ## About Me
