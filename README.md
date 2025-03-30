@@ -17,19 +17,6 @@
 - 📧 Reach me at: **menaehab7996@gmail.com**
 - ⚡ Fun fact: **I enjoy problem-solving with C++**
 
-
-## About Me
-
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-blue)
-![Competitive Programmer](https://img.shields.io/badge/Competitive-Programmer-blue)
-
-- 🏧 Hi, I'm a **Computer Science student at South Valley National University (SVNU)**
-- 💻 Currently focusing on **Laravel**
-- 🌱 Currently enhancing skills in **Laravel** and **React**
-- 🌐 Check out my portfolio: [mena-ehab.vercel.app](https://mena-ehab.vercel.app/)
-- 📧 How to reach me: **menaehab7996@gmail.com**
-- ⚡ Fun fact: **I am a competitive programmer who enjoys problem-solving with C++**
-
 ## Connect with me
 
 <p align="left">
