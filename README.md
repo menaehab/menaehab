@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mena Ehab</h1>
-<h3 align="center">I am a CS Student, Full-Stack Developer & Competitive Programmer</h3>
+<h1 align="center" style="font-size: 2.5em; font-weight: bold;">Mena Ehab</h1>
+<h3 align="center">Full-Stack Developer & Competitive Programmer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+## 📌 About Me
+
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-blue)
+![Competitive Programmer](https://img.shields.io/badge/Competitive-Programmer-blue)
+
+- 🏧 I am a **Computer Science student at South Valley National University (SVNU)**
+- 💻 Currently focusing on **Laravel**
+- 🌱 Enhancing my skills in **Laravel** and **React**
+- 🌐 Check out my portfolio: [mena-ehab.vercel.app](https://mena-ehab.vercel.app/)
+- 📧 Reach me at: **menaehab7996@gmail.com**
+- ⚡ Fun fact: **I enjoy problem-solving with C++**
+
 
 ## About Me
 
