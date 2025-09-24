@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Livewire-22D3EE?style=flat-square&logo=laravel&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Filament-EB4A4A?style=flat-square&logo=laravel&logoColor=white" alt="Filament" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
