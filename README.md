@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
 </p>
 
 ## 📌 About Me
@@ -91,12 +91,15 @@
 
 ### Programming Languages
 <p align="left">
-   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menaehab&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="menaehab" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menaehab&show_icons=true&locale=en&cache_seconds=1800" alt="menaehab" /></p>
+---
+
+## GitHub Stats & Activity
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=menaehab&show_icons=true&theme=dark)](https://github.com/menaehab)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=menaehab&layout=compact&theme=dark)](https://github.com/menaehab)
