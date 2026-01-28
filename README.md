@@ -78,6 +78,10 @@
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
+### Testing
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square)
+![Pest](https://img.shields.io/badge/Pest-5A67D8?style=flat-square)
+
 ### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -101,5 +105,5 @@
 
 ## GitHub Stats & Activity
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=menaehab&show_icons=true&theme=dark)](https://github.com/menaehab)
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=menaehab&layout=compact&theme=dark)](https://github.com/menaehab)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=menaehab&show_icons=true&theme=dark)](https://github.com/menaehab)
