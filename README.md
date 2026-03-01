@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/Livewire-22D3EE?style=flat-square&logo=laravel&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/Filament-EB4A4A?style=flat-square&logo=laravel&logoColor=white" alt="Filament" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Inertia.js-000000?style=flat-square&logo=javascript&logoColor=white" alt="Inertia.js" />
 </p>
 
 ### Testing
