@@ -1,113 +1,141 @@
-<h1 align="center" style="font-size: 2.5em; font-weight: bold;">Mena Ehab</h1>
-<h3 align="center">Full-Stack Developer & Competitive Programmer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mena%20Ehab&fontSize=60&fontColor=e94560&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descColor=a8b2d8" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+```javascript
+const mena = {
+  role:       "Full-Stack Developer",
+  university: "South Valley National University (SVNU) — CS Student",
+  location:   "Egypt 🇪🇬",
+  focus:      ["Laravel", "React", "Next.js"],
+  portfolio:  "https://mena-ehab.vercel.app/",
+};
+```
+
+- 🔭 Currently building full-stack web apps with **Laravel + React**
+- 🌱 Deepening my expertise in **Laravel**, **Next.js**, and **TypeScript**
+- 📫 Reach me at **menaehab7996@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-</p>
-
-## 📌 About Me
-
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-blue)
-![Competitive Programmer](https://img.shields.io/badge/Competitive-Programmer-blue)
-
-- 🏧 I am a **Computer Science student at South Valley National University (SVNU)**
-- 💻 Currently focusing on **Laravel**
-- 🌱 Enhancing my skills in **Laravel** and **React**
-- 🌐 Check out my portfolio: [mena-ehab.vercel.app](https://mena-ehab.vercel.app/)
-- 📧 Reach me at: **menaehab7996@gmail.com**
-- ⚡ Fun fact: **I enjoy problem-solving with C++**
-
-## Connect with me
-
-<p align="left">
   <a href="https://linkedin.com/in/mena-ehab-262a4b290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/mena.ehab.9026" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/justt._.mena/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/commanderyt" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://wa.me/201224535628" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mena-ehab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-## Competitive Programming Profiles
-
-<p align="left">
-  <a href="https://www.hackerrank.com/commanderyt123" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="mailto:menaehab7996@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/mena.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://wa.me/201224535628" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/mena_ehab" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://discord.com/users/commanderyt" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
-## Skills
-
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/shadcn/UI-FF63C0?style=flat-square&logo=react&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-22D3EE?style=flat-square&logo=laravel&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/Filament-EB4A4A?style=flat-square&logo=laravel&logoColor=white" alt="Filament" />
-  <img src="https://img.shields.io/badge/Inertia.js-000000?style=flat-square&logo=javascript&logoColor=white" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square" alt="PHPUnit" />
-  <img src="https://img.shields.io/badge/Pest-5A67D8?style=flat-square" alt="Pest" />
-</p>
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://fb.com/mena.ehab.9026" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/justt._.mena/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## GitHub Stats & Activity
+## ⚔️ Competitive Programming
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=menaehab&layout=compact&theme=dark)](https://github.com/menaehab)
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=menaehab&show_icons=true&theme=dark)](https://github.com/menaehab)
+<p align="center">
+  <a href="https://codeforces.com/profile/mena.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/mena_ehab" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/commanderyt123" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-22D3EE?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-EB4A4A?style=flat-square&logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=flat-square&logo=javascript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+### 🗄️ Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🧪 Testing
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square)
+![Pest](https://img.shields.io/badge/Pest-5A67D8?style=flat-square)
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=menaehab&show_icons=true&theme=dark" height="170" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=menaehab&layout=compact&theme=dark" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menaehab&theme=tokyonight&hide_border=true" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menaehab&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
+
+</div>
