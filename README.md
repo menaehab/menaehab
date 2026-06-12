@@ -18,7 +18,7 @@ const mena = {
 };
 ```
 
-- 🔭 Currently building full-stack web apps with **Laravel + React**
+- 🔭 Currently building full-stack web apps with **Laravel + Next.js**
 - 🌱 Deepening my expertise in **Laravel**, **Next.js**, and **TypeScript**
 - 📫 Reach me at **menaehab7996@gmail.com**
 
